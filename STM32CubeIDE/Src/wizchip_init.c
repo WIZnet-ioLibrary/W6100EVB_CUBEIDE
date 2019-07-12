@@ -26,7 +26,7 @@ void W6100Initialze(void)
 	#endif
 #endif
 
-	intr_kind temp;
+	uint8_t temp;
 	unsigned char W6100_AdrSet[2][8] = {{2, 2, 2, 2, 2, 2, 2, 2}, {2, 2, 2, 2, 2, 2, 2, 2}};
 	do
 	{
