@@ -10,6 +10,6 @@ dhcpv6.c:1036:9:DHCP_run2	16	static
 dhcpv6.c:1074:9:DHCP_run	32	static
 dhcpv6.c:1165:6:DHCP_stop	8	static
 dhcpv6.c:1176:9:check_DHCP_timeout	16	static
-dhcpv6.c:1228:6:DHCP_init	32	static
+dhcpv6.c:1228:6:DHCP_init	40	static
 dhcpv6.c:1261:6:reset_DHCP_timeout	4	static
 dhcpv6.c:1272:6:DHCP_time_handler	4	static
